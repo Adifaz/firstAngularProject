@@ -1,0 +1,7 @@
+The Web Development Course 
+->The course will start from the basics of web developments some theoritical part, knowledge and some historical things 
+->HTML the backbone of webD - we will cover all the major things used in html regularly along with the project for the learning 
+->CSS the makeup of a webpage - we will learn all the major things used to style a webpage along with a project 
+->Bootstrap a framework for HTML+CSS - ease to development
+->VanillaJavaScript - here comes the programming the handling of the behaviour of a webpage or website in this we will cover all the coding related things like classes objects loops evenListners, covering all the topics in a project 
+->JQuery a framework for JS

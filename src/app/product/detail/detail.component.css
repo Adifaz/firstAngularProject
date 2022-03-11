@@ -1,0 +1,13 @@
+img {
+    height: 100%;
+    width: 100%;
+    left: 20%;
+    size: cover;
+    object-fit: cover;
+}
+.div-details{
+    padding: 2rem 0rem 2rem 0rem;
+}
+a {
+    margin: 1rem;
+}

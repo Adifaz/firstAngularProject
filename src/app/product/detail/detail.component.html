@@ -1,0 +1,19 @@
+<div class="container div-details">
+  <div class="row">
+    <div class="col-md-4">
+      <img src="{{getImage()}}" alt="">
+    </div>
+    <div class="col-md-8">
+      <h4>{{getName()}}</h4>
+      <hr>
+      <h5>Bag Color</h5>
+      <p>{{getColor()}}</p>
+      <h5>Bag Price</h5>
+      <p>${{getPrice()}}</p>
+      <h5>About Bag</h5>
+      <p>{{getDesc()}}</p>
+      <a class="btn btn-primary" routerLink="#">Buy Now</a>
+      <a class="btn btn-primary" (click)="addToCart(getId())">Add To Cart</a>
+    </div>
+  </div>
+</div>

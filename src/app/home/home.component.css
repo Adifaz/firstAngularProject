@@ -1,0 +1,41 @@
+.sectionFirst {
+    background-image: url();
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:whitesmoke;
+
+}
+h1 {
+    
+        position: absolute;
+        top: 50%;
+        left: 75%;
+        transform: translate(-50%, -50%);
+}
+.section1Button {
+    background-color: #332115;
+    color:whitesmoke;
+    border-radius: 30px 30px 30px 30px;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 50;
+    padding: 10px 27px;
+    box-shadow: 20px 10px 15px rgba(0, 0, 0, 0.1);
+    border:0;
+    position: absolute;
+    top: 65%;
+    left: 72.5%;
+    transform: translate(-50%, -50%);
+}
+
+img {
+    position: center center;
+    object-fit: cover;
+    size: cover;
+    width: 100%;
+    height: 100%;
+}
